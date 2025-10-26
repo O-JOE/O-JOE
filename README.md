@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!--
 **O-JOE/O-JOE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
  💻 I’m a tech-savvy beginner currently learning Backend Development  
