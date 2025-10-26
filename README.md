@@ -9,7 +9,9 @@
  
  ⚡ Fun fact: I love exploring anything tech and discovering how things work behind the scenes!
  
- 📫 How to reach me: josephekowotoo@gmail.com
+ 📫 How to reach me: 
+ 
+ [E-MAIL] josephekowotoo@gmail.com
  
  [Portfolio] (https://sites.google.com/view/josephekowotoo/my-portfolio)
  
