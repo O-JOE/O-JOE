@@ -19,6 +19,4 @@
 
 [X] https://x.com/1_otoo?s=21
 
-![Screenshot_20210530-175212_InstaSquare](https://github.com/user-attachments/assets/7172be9a-c321-4a2a-91dc-037b99519947)
-
 ![Knowing Truth Podcast](https://github.com/user-attachments/assets/0048ee53-5988-48fb-ae16-e4dba9795a9a)
