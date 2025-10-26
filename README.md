@@ -11,7 +11,7 @@
  
  📫 How to reach me: josephekowotoo@gmail.com
  
- [Portfolio](https://sites.google.com/view/josephekowotoo/my-portfolio)
+ [Portfolio] (https://sites.google.com/view/josephekowotoo/my-portfolio)
  
 [LinkedIn] www.linkedin.com/in/joseph-otoo-85aa49152
 
